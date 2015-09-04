@@ -1,0 +1,30 @@
+body {
+      background-color: grey ;
+}
+
+header {
+      background-color: blue ;
+      font-size: 40px;
+      font-weight: bold;
+}
+
+nav {
+      background-color: black ;
+}
+
+section {
+      background-color: white ;
+}
+
+article {
+      background-color: white ;
+} 
+#article-one{
+      boarder: black solid 3px;
+}
+#article-two{
+      boarder: black solid 3px;
+}
+footer {
+      background-color: white ;
+}
